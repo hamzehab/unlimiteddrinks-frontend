@@ -1,0 +1,1 @@
+import{d as i}from"./index.4e430b80.js";var t=({app:o})=>{o.use(i({domain:"dev-f7hoszot0iiwwsko.us.auth0.com",clientId:"f3xx5JCIUbCKrsQLXZtOfgmKW4RoFlVR",authorizationParams:{redirect_uri:window.location.origin}}))};export{t as default};
