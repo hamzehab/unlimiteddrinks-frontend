@@ -1,0 +1,1 @@
+import{d as i}from"./index-BMfJQZfm.js";const a=({app:o})=>{o.use(i({domain:"dev-f7hoszot0iiwwsko.us.auth0.com",clientId:"f3xx5JCIUbCKrsQLXZtOfgmKW4RoFlVR",authorizationParams:{redirect_uri:window.location.origin}}))};export{a as default};
